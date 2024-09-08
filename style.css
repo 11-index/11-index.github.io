@@ -21,7 +21,6 @@ div.colorizer{
     z-index:3;
 }
 div.echolizer{
-    background: #fff;
     position: absolute;
     left: 0;
     bottom: 0;
@@ -34,7 +33,7 @@ div.audio img{
     width: 400px;
 }
 div.disk{
-    background-image: url("../img/cd.png");
+    background-image: url("cd.png");
     width: 350px;
     height: 350px;
     position: absolute;
