@@ -87,7 +87,6 @@ div.audio{
     position: relative;
     top: 100px;
     left: 100px;
-    background: #eee;
     width: 400px;
     height: 400px;
     transition: all 0.3s;
@@ -116,7 +115,7 @@ div.audio img{
     width: 400px;
 }
 div.disk{
-    background-image: url("../img/cd.png");
+    background-image: url("cd.png");
     width: 350px;
     height: 350px;
     position: absolute;
